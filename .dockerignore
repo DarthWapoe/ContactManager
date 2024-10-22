@@ -1,0 +1,10 @@
+# Ignore .git directory
+.git
+
+# Ignore build outputs
+bin
+obj
+
+# Ignore Dockerfile and docker-compose files
+Dockerfile
+docker-compose.yml
